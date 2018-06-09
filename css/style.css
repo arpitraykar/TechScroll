@@ -1,0 +1,78 @@
+body {
+    margin-top: 70px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Poppins";
+}
+
+p {
+    font-family: "Roboto";
+}
+
+.navbar,
+.bg-color {
+    background-color: #fff;
+    border: 0;
+    font-family: "Poppins";
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 20px;
+    color: #000 !important;
+}
+
+.nav-item {}
+
+.nav-item a {
+    font-weight: 600;
+}
+
+.showcase-left img {
+    width: 90%;
+}
+
+.showcase-right {
+    margin-top: 90px;
+}
+
+#home {
+    margin-bottom: 50px;
+}
+
+#testimonial {
+    background-color: #f1f1f1;
+    padding: 50px 0 30px 0;
+}
+
+#testimonial p {
+    font-size: 30px;
+    font-family: "Josefin Sans";
+    font-weight: 400;
+}
+
+.about-right-content {
+    padding-top: 70px !important;
+}
+
+.about-image {
+    padding-top: 70px !important;
+}
+
+#contact-head-section {
+    background: url("../img/contact-section.jpeg") no-repeat;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.contact-inner h2,
+label {
+    color: #fff;
+}
